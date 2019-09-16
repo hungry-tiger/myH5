@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊~蔺明珠个憨批，哈哈哈哈哈吼吼
 
 You can use the [editor on GitHub](https://github.com/hungry-tiger/myH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
